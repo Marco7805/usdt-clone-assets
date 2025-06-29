@@ -1,0 +1,16 @@
+{
+  "name": "USDTClone Token List",
+  "timestamp": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+  "version": { "major": 1, "minor": 0, "patch": 4 },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x0c2bB08E44123Fc98c385a026c94D44A9DDC7e90",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://Marco7805.github.io/usdt-clone-assets/images/usdtclone.png",
+      "extensions": { "coingeckoId": "tether" }
+    }
+  ]
+}
